@@ -188,6 +188,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Bifrost](https://github.com/maximhq/bifrost) - AI gateway for routing requests across model providers with automatic failover, load balancing, observability, and MCP support.
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Toolkit for agent monitoring, testing, and replay debugging with session recordings.
 - [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging failed AI browser-agent and computer-use runs with screenshots, URLs, actions, model output, status, and redacted shareable exports.
+- [agentstats](https://github.com/RishabhPande/agentstats) - Run-aware statistical analysis of repeated agent-benchmark outcomes with Holm-corrected comparisons and uncertainty tiers.
 
 ## SDKs and Libraries
 
